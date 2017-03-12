@@ -1,0 +1,243 @@
+Tadam
+v7
+r0
+t283195184.380262
+cCheck dependencies
+cProcessInfoPlistFile /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/technasis/Desktop/adam/English.lproj/MainMenu.xib
+cCpResource build/Debug/adam.app/Contents/Resources/adam.qtz adam.qtz
+cProcessPCH /var/folders/ot/otWl9U5UGYeUt+9aIarWUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/adam_Prefix-gsnwcbyoqbouardqadprplsurscl/adam_Prefix.pch.gch adam_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/adam.build/Debug/adam.build/Objects-normal/x86_64/main.o /Users/technasis/Desktop/adam/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/adam.build/Debug/adam.build/Objects-normal/x86_64/AppController.o /Users/technasis/Desktop/adam/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/MacOS/adam normal x86_64
+cTouch /Users/technasis/Desktop/adam/build/Debug/adam.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h
+c000000004A1249D30000000000000124
+t1242712531
+s292
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004A1249D4000000000000A5F0
+t1242712532
+s42480
+
+N/Users/technasis/Desktop/adam/AppController.h
+c000000004B30FF700000000000000134
+t1261502320
+s308
+i<Cocoa/Cocoa.h>
+i<Quartz/Quartz.h>
+
+N/Users/technasis/Desktop/adam/AppController.m
+c000000004B30FFAA0000000000000413
+t1261502378
+s1043
+i"AppController.h"
+
+N/Users/technasis/Desktop/adam/English.lproj/InfoPlist.strings
+c000000004B30FF7000000000000000D0
+t1261502320
+s208
+
+N/Users/technasis/Desktop/adam/English.lproj/MainMenu.xib
+c000000004B30FF70000000000004E1E7
+t1261502320
+s319975
+
+N/Users/technasis/Desktop/adam/Introduction.qtz
+c000000004B30FF700000000000003990
+t1261502320
+s14736
+
+N/Users/technasis/Desktop/adam/adam.qtz
+c000000004B06C4E0000000000390C9AF
+t1258734816
+s59820463
+
+N/Users/technasis/Desktop/adam/adam_Prefix.pch
+c000000004B30FF7000000000000000A6
+t1261502320
+s166
+i<Cocoa/Cocoa.h>
+i<Quartz/Quartz.h>
+
+N/Users/technasis/Desktop/adam/build/Debug/adam.app
+t1261502384
+s102
+
+N/Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Info.plist
+t1261502378
+s821
+
+N/Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/MacOS/adam
+t1261502384
+s14816
+
+N/Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/PkgInfo
+t1261502378
+s8
+
+N/Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1261502379
+s208
+
+N/Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Resources/English.lproj/MainMenu.nib
+t1261502379
+s59525
+
+N/Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Resources/Introduction.qtz
+t2
+s0
+
+N/Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Resources/adam.qtz
+t1261502380
+s59820463
+
+N/Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/Objects-normal/x86_64/AppController.o
+t1261502383
+s18044
+
+N/Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/Objects-normal/x86_64/adam.LinkFileList
+c000000004B30FFAA00000000000000C3
+t1261502378
+s195
+
+N/Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/Objects-normal/x86_64/main.o
+t1261502383
+s4976
+
+N/Users/technasis/Desktop/adam/main.m
+c000000004B30FF7000000000000000F8
+t1261502320
+s248
+i<Cocoa/Cocoa.h>
+
+N/var/folders/ot/otWl9U5UGYeUt+9aIarWUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/adam_Prefix-gsnwcbyoqbouardqadprplsurscl/adam_Prefix.pch.gch
+t1261502383
+s56411536
+
+NInfo.plist
+c000000004B30FF700000000000000394
+t1261502320
+s916
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies283195178#283195178#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/adam.build/Debug/adam.build/Objects-normal/x86_64/AppController.o /Users/technasis/Desktop/adam/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s283195183.445654
+e283195183.700972
+r1
+xCompileC
+xbuild/adam.build/Debug/adam.build/Objects-normal/x86_64/AppController.o
+x/Users/technasis/Desktop/adam/AppController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/technasis/Desktop/adam/AppController.m283195183#283195183#0(0"0(0#0#45"/Users/technasis/Desktop/adam/AppController.m4300885448#999"    cd /Users/technasis/Desktop/adam    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/adam.hmap -F/Users/technasis/Desktop/adam/build/Debug -I/Users/technasis/Desktop/adam/build/Debug/include -I/Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/DerivedSources/x86_64 -I/Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/DerivedSources -include /var/folders/ot/otWl9U5UGYeUt+9aIarWUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/adam_Prefix-gsnwcbyoqbouardqadprplsurscl/adam_Prefix.pch -c /Users/technasis/Desktop/adam/AppController.m -o /Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/Objects-normal/x86_64/AppController.o0#
+
+CCompileC build/adam.build/Debug/adam.build/Objects-normal/x86_64/main.o /Users/technasis/Desktop/adam/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s283195183.444492
+e283195183.687831
+r1
+xCompileC
+xbuild/adam.build/Debug/adam.build/Objects-normal/x86_64/main.o
+x/Users/technasis/Desktop/adam/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/technasis/Desktop/adam/main.m283195183#283195183#0(0"0(0#0#36"/Users/technasis/Desktop/adam/main.m4300885448#981"    cd /Users/technasis/Desktop/adam    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/adam.hmap -F/Users/technasis/Desktop/adam/build/Debug -I/Users/technasis/Desktop/adam/build/Debug/include -I/Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/DerivedSources/x86_64 -I/Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/DerivedSources -include /var/folders/ot/otWl9U5UGYeUt+9aIarWUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/adam_Prefix-gsnwcbyoqbouardqadprplsurscl/adam_Prefix.pch -c /Users/technasis/Desktop/adam/main.m -o /Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/technasis/Desktop/adam/English.lproj/MainMenu.xib
+s283195178.903159
+e283195179.451664
+r1
+xCompileXIB
+x/Users/technasis/Desktop/adam/English.lproj/MainMenu.xib
+o2009-12-22 12:19:39.237 ibtool[19441:607] *** QCPlugIn: Cannot preflight plug-in at path "/Library/Graphics/Quartz Composer Plug-Ins/Motion Sensor.plugin" (Error Domain=NSCocoaErrorDomain Code=3585 UserInfo=0x1041d39c0 "The bundle “Motion Sensor” couldn’t be loaded because it doesn’t contain a version for the current architecture." (dlopen_preflight(/Library/Graphics/Quartz Composer Plug-Ins/Motion Sensor.plugin/Contents/MacOS/Motion Sensor): no suitable image found.  Did find:
+o	/Library/Graphics/Quartz Composer Plug-Ins/Motion Sensor.plugin/Contents/MacOS/Motion Sensor: no matching architecture in universal wrapper))
+o2009-12-22 12:19:39.240 ibtool[19441:607] *** QCPlugIn: Cannot preflight plug-in at path "/Library/Graphics/Quartz Composer Plug-Ins/ObjLoader.plugin" (Error Domain=NSCocoaErrorDomain Code=3585 UserInfo=0x1041d7260 "The bundle “ObjLoader” couldn’t be loaded because it doesn’t contain a version for the current architecture." (dlopen_preflight(/Library/Graphics/Quartz Composer Plug-Ins/ObjLoader.plugin/Contents/MacOS/ObjLoader): no suitable image found.  Did find:
+o	/Library/Graphics/Quartz Composer Plug-Ins/ObjLoader.plugin/Contents/MacOS/ObjLoader: no matching architecture in universal wrapper))
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib283195178#283195179#0(1244"2009-12-22 12:19:39.237 ibtool[19441:607] *** QCPlugIn: Cannot preflight plug-in at path "/Library/Graphics/Quartz Composer Plug-Ins/Motion Sensor.plugin" (Error Domain=NSCocoaErrorDomain Code=3585 UserInfo=0x1041d39c0 "The bundle “Motion Sensor” couldn’t be loaded because it doesn’t contain a version for the current architecture." (dlopen_preflight(/Library/Graphics/Quartz Composer Plug-Ins/Motion Sensor.plugin/Contents/MacOS/Motion Sensor): no suitable image found.  Did find:	/Library/Graphics/Quartz Composer Plug-Ins/Motion Sensor.plugin/Contents/MacOS/Motion Sensor: no matching architecture in universal wrapper))2009-12-22 12:19:39.240 ibtool[19441:607] *** QCPlugIn: Cannot preflight plug-in at path "/Library/Graphics/Quartz Composer Plug-Ins/ObjLoader.plugin" (Error Domain=NSCocoaErrorDomain Code=3585 UserInfo=0x1041d7260 "The bundle “ObjLoader” couldn’t be loaded because it doesn’t contain a version for the current architecture." (dlopen_preflight(/Library/Graphics/Quartz Composer Plug-Ins/ObjLoader.plugin/Contents/MacOS/ObjLoader): no suitable image found.  Did find:	/Library/Graphics/Quartz Composer Plug-Ins/ObjLoader.plugin/Contents/MacOS/ObjLoader: no matching architecture in universal wrapper))0(0#0#56"/Users/technasis/Desktop/adam/English.lproj/MainMenu.xib4300885448#297"    cd /Users/technasis/Desktop/adam    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Resources/English.lproj/MainMenu.nib /Users/technasis/Desktop/adam/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s283195178.898300
+e283195179.070596
+r1
+xCopyStringsFile
+x/Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings283195178#283195179#0(0"0(0#0#61"/Users/technasis/Desktop/adam/English.lproj/InfoPlist.strings4300885448#345"    cd /Users/technasis/Desktop/adam    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/adam.app/Contents/Resources/Introduction.qtz Introduction.qtz
+r0
+
+CCpResource build/Debug/adam.app/Contents/Resources/adam.qtz adam.qtz
+s283195179.070679
+e283195180.497076
+r1
+xCpResource
+xbuild/Debug/adam.app/Contents/Resources/adam.qtz
+xadam.qtz
+lSLF07#2@13"Copy adam.qtz283195179#283195180#0(0"0(0#0#38"/Users/technasis/Desktop/adam/adam.qtz4300885448#294"    cd /Users/technasis/Desktop/adam    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/technasis/Desktop/adam/adam.qtz /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Resources0#
+
+CLd /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/MacOS/adam normal x86_64
+s283195183.701054
+e283195184.355328
+r1
+xLd
+x/Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/MacOS/adam
+xnormal
+xx86_64
+lSLF07#2@75"Link /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/MacOS/adam283195183#283195184#0(0"0(0#0#0"4300885448#500"    cd /Users/technasis/Desktop/adam    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/technasis/Desktop/adam/build/Debug -F/Users/technasis/Desktop/adam/build/Debug -filelist /Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/Objects-normal/x86_64/adam.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/MacOS/adam0#
+
+CProcessInfoPlistFile /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Info.plist Info.plist
+s283195178.859325
+e283195178.898211
+r1
+xProcessInfoPlistFile
+x/Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist283195178#283195178#0(0"0(0#0#40"/Users/technasis/Desktop/adam/Info.plist13229804949078112#269"    cd /Users/technasis/Desktop/adam    builtin-infoPlistUtility Info.plist -genpkginfo /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/ot/otWl9U5UGYeUt+9aIarWUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/adam_Prefix-gsnwcbyoqbouardqadprplsurscl/adam_Prefix.pch.gch adam_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s283195180.497391
+e283195183.444293
+r1
+xProcessPCH
+x/var/folders/ot/otWl9U5UGYeUt+9aIarWUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/adam_Prefix-gsnwcbyoqbouardqadprplsurscl/adam_Prefix.pch.gch
+xadam_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile adam_Prefix.pch283195180#283195183#0(0"0(0#0#45"/Users/technasis/Desktop/adam/adam_Prefix.pch4300885448#899"    cd /Users/technasis/Desktop/adam    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/adam.hmap -F/Users/technasis/Desktop/adam/build/Debug -I/Users/technasis/Desktop/adam/build/Debug/include -I/Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/DerivedSources/x86_64 -I/Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/DerivedSources -c /Users/technasis/Desktop/adam/adam_Prefix.pch -o /var/folders/ot/otWl9U5UGYeUt+9aIarWUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/adam_Prefix-gsnwcbyoqbouardqadprplsurscl/adam_Prefix.pch.gch0#
+
+CTouch /Users/technasis/Desktop/adam/build/Debug/adam.app
+s283195184.355435
+e283195184.380111
+r1
+xTouch
+x/Users/technasis/Desktop/adam/build/Debug/adam.app
+lSLF07#2@56"Touch /Users/technasis/Desktop/adam/build/Debug/adam.app283195184#283195184#0(0"0(0#0#0"4300885448#110"    cd /Users/technasis/Desktop/adam    /usr/bin/touch -c /Users/technasis/Desktop/adam/build/Debug/adam.app0#
+

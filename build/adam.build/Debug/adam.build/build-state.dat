@@ -1,0 +1,379 @@
+Tadam
+v7
+r0
+t289211353.837626
+cCheck dependencies
+cProcessInfoPlistFile "/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/Debug/adam.app/Contents/Info.plist" Info.plist
+cCopyStringsFile "/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/Debug/adam.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/DB/DBQz-wVtG543pKdwuT42WU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/adam_Prefix-gbfnljhpoctmkcdnveboeoibrszy/adam_Prefix.pch.gch adam_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/adam.build/Debug/adam.build/Objects-normal/x86_64/main.o "/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/adam.build/Debug/adam.build/Objects-normal/x86_64/AppController.o "/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/AppController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h
+c000000004A1249D30000000000000124
+t1242712531
+s292
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004A1249D4000000000000A5F0
+t1242712532
+s42480
+
+N/Users/technasis/Desktop/adam/AppController.h
+c000000004B31090A0000000000000199
+t1261504778
+s409
+i<Cocoa/Cocoa.h>
+i<Quartz/Quartz.h>
+
+N/Users/technasis/Desktop/adam/AppController.m
+c000000004B31097A0000000000000445
+t1261504890
+s1093
+i"AppController.h"
+
+N/Users/technasis/Desktop/adam/English.lproj/InfoPlist.strings
+c000000004B30FF7000000000000000D0
+t1261502320
+s208
+
+N/Users/technasis/Desktop/adam/English.lproj/MainMenu.xib
+c000000004B31001C000000000004B8EF
+t1261502492
+s309487
+
+N/Users/technasis/Desktop/adam/Introduction.qtz
+c000000004B30FF700000000000003990
+t1261502320
+s14736
+
+N/Users/technasis/Desktop/adam/adam.qtz
+c000000004B06C4E0000000000390C9AF
+t1258734816
+s59820463
+
+N/Users/technasis/Desktop/adam/adam_Prefix.pch
+c000000004B30FF7000000000000000A6
+t1261502320
+s166
+i<Cocoa/Cocoa.h>
+i<Quartz/Quartz.h>
+
+N/Users/technasis/Desktop/adam/build/Debug/adam.app
+t1261504692
+s102
+
+N/Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Info.plist
+t1261504305
+s928
+
+N/Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/MacOS/adam
+t1261504692
+s14824
+
+N/Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/PkgInfo
+t1261504305
+s8
+
+N/Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1261502379
+s208
+
+N/Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Resources/English.lproj/MainMenu.nib
+t1261502496
+s56884
+
+N/Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Resources/Introduction.qtz
+t2
+s0
+
+N/Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Resources/adam.qtz
+t1261502380
+s59820463
+
+N/Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/Objects-normal/x86_64/AppController.o
+t2
+s0
+
+N/Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/Objects-normal/x86_64/adam.LinkFileList
+c000000004B30FFAA00000000000000C3
+t1261502378
+s195
+
+N/Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/Objects-normal/x86_64/main.o
+t1261504337
+s4976
+
+N/Users/technasis/Desktop/adam/main.m
+c000000004B31075000000000000000F9
+t1261504336
+s249
+i<Cocoa/Cocoa.h>
+
+N/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/AppController.h
+c000000004B55765B0000000000000199
+t1263892059
+s409
+i<Cocoa/Cocoa.h>
+i<Quartz/Quartz.h>
+
+N/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/AppController.m
+c000000004B55765C0000000000000445
+t1263892060
+s1093
+i"AppController.h"
+
+N/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/English.lproj/InfoPlist.strings
+c000000004B55765D00000000000000D0
+t1263892061
+s208
+
+N/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/English.lproj/MainMenu.xib
+c000000004B55765D000000000004B8EF
+t1263892061
+s309487
+
+N/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/adam_Prefix.pch
+c000000004B55765B00000000000000A6
+t1263892059
+s166
+i<Cocoa/Cocoa.h>
+i<Quartz/Quartz.h>
+
+N/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/Debug/adam.app
+t1263892060
+s102
+
+N/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/Debug/adam.app/Contents/Info.plist
+t1267518549
+s928
+
+N/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/Debug/adam.app/Contents/MacOS/adam
+t1263892060
+s14824
+
+N/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/Debug/adam.app/Contents/PkgInfo
+t1267518549
+s8
+
+N/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/Debug/adam.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1263892061
+s208
+
+N/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/Debug/adam.app/Contents/Resources/English.lproj/MainMenu.nib
+t1263892061
+s56884
+
+N/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/adam.build/Debug/adam.build/Objects-normal/x86_64/AppController.o
+t2
+s0
+
+N/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/adam.build/Debug/adam.build/Objects-normal/x86_64/adam.LinkFileList
+c000000004B8CCC550000000000000105
+t1267518549
+s261
+
+N/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/adam.build/Debug/adam.build/Objects-normal/x86_64/main.o
+t1267518553
+s5048
+
+N/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/main.m
+c000000004B55765D00000000000000F9
+t1263892061
+s249
+i<Cocoa/Cocoa.h>
+
+N/var/folders/DB/DBQz-wVtG543pKdwuT42WU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/adam_Prefix-gbfnljhpoctmkcdnveboeoibrszy/adam_Prefix.pch.gch
+t1267518553
+s56411536
+
+N/var/folders/ot/otWl9U5UGYeUt+9aIarWUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/adam_Prefix-gsnwcbyoqbouardqadprplsurscl/adam_Prefix.pch.gch
+t1261502383
+s56411536
+
+NInfo.plist
+c000000004B55765D0000000000000434
+t1263892061
+s1076
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies289211349#289211349#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/adam.build/Debug/adam.build/Objects-normal/x86_64/AppController.o "/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/AppController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s289211353.634318
+e289211353.786401
+r0
+xCompileC
+xbuild/adam.build/Debug/adam.build/Objects-normal/x86_64/AppController.o
+x/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/AppController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/AppController.m:11: error: expected ';' before 'implementation'
+lSLF07#2@86"Compile /Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/AppController.m289211353#289211353#0(127"/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/AppController.m:11: error: expected ';' before 'implementation'1(4@36"Expected ';' before 'implementation'289211353#0#127#0(6@78"/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/AppController.m285584860#11#0#11#0#19"expected * before *0(0#0#78"/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/AppController.m4300885448#1279"    cd "/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/adam.build/Debug/adam.build/adam.hmap" "-F/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/Debug" "-I/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/Debug/include" "-I/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/adam.build/Debug/adam.build/DerivedSources/x86_64" "-I/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/adam.build/Debug/adam.build/DerivedSources" -include /var/folders/DB/DBQz-wVtG543pKdwuT42WU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/adam_Prefix-gbfnljhpoctmkcdnveboeoibrszy/adam_Prefix.pch -c "/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/AppController.m" -o "/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/adam.build/Debug/adam.build/Objects-normal/x86_64/AppController.o"1#
+
+CCompileC build/adam.build/Debug/adam.build/Objects-normal/x86_64/AppController.o /Users/technasis/Desktop/adam/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s283197690.200847
+e283197690.598899
+r0
+xCompileC
+xbuild/adam.build/Debug/adam.build/Objects-normal/x86_64/AppController.o
+x/Users/technasis/Desktop/adam/AppController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/technasis/Desktop/adam/AppController.m:11: error: expected ';' before 'implementation'
+lSLF07#2@53"Compile /Users/technasis/Desktop/adam/AppController.m283197690#283197690#0(94"/Users/technasis/Desktop/adam/AppController.m:11: error: expected ';' before 'implementation'1(4@36"Expected ';' before 'implementation'283197690#0#94#0(6@45"/Users/technasis/Desktop/adam/AppController.m283197690#11#0#11#0#19"expected * before *0(0#0#45"/Users/technasis/Desktop/adam/AppController.m4300885448#999"    cd /Users/technasis/Desktop/adam    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/adam.hmap -F/Users/technasis/Desktop/adam/build/Debug -I/Users/technasis/Desktop/adam/build/Debug/include -I/Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/DerivedSources/x86_64 -I/Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/DerivedSources -include /var/folders/ot/otWl9U5UGYeUt+9aIarWUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/adam_Prefix-gsnwcbyoqbouardqadprplsurscl/adam_Prefix.pch -c /Users/technasis/Desktop/adam/AppController.m -o /Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/Objects-normal/x86_64/AppController.o1#
+
+CCompileC build/adam.build/Debug/adam.build/Objects-normal/x86_64/main.o "/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s289211353.633169
+e289211353.837541
+r1
+xCompileC
+xbuild/adam.build/Debug/adam.build/Objects-normal/x86_64/main.o
+x/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/main.m289211353#289211353#0(0"0(0#0#69"/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/main.m4300885448#1261"    cd "/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/adam.build/Debug/adam.build/adam.hmap" "-F/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/Debug" "-I/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/Debug/include" "-I/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/adam.build/Debug/adam.build/DerivedSources/x86_64" "-I/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/adam.build/Debug/adam.build/DerivedSources" -include /var/folders/DB/DBQz-wVtG543pKdwuT42WU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/adam_Prefix-gbfnljhpoctmkcdnveboeoibrszy/adam_Prefix.pch -c "/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/main.m" -o "/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/adam.build/Debug/adam.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/adam.build/Debug/adam.build/Objects-normal/x86_64/main.o /Users/technasis/Desktop/adam/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s283197136.771641
+e283197137.218395
+r1
+xCompileC
+xbuild/adam.build/Debug/adam.build/Objects-normal/x86_64/main.o
+x/Users/technasis/Desktop/adam/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/technasis/Desktop/adam/main.m283197136#283197137#0(0"0(0#0#36"/Users/technasis/Desktop/adam/main.m4300885448#981"    cd /Users/technasis/Desktop/adam    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/adam.hmap -F/Users/technasis/Desktop/adam/build/Debug -I/Users/technasis/Desktop/adam/build/Debug/include -I/Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/DerivedSources/x86_64 -I/Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/DerivedSources -include /var/folders/ot/otWl9U5UGYeUt+9aIarWUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/adam_Prefix-gsnwcbyoqbouardqadprplsurscl/adam_Prefix.pch -c /Users/technasis/Desktop/adam/main.m -o /Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB "/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/English.lproj/MainMenu.xib"
+r0
+
+CCompileXIB /Users/technasis/Desktop/adam/English.lproj/MainMenu.xib
+s283195296.366598
+e283195296.829674
+r1
+xCompileXIB
+x/Users/technasis/Desktop/adam/English.lproj/MainMenu.xib
+o2009-12-22 12:21:36.679 ibtool[19534:607] *** QCPlugIn: Cannot preflight plug-in at path "/Library/Graphics/Quartz Composer Plug-Ins/Motion Sensor.plugin" (Error Domain=NSCocoaErrorDomain Code=3585 UserInfo=0x1041ed100 "The bundle “Motion Sensor” couldn’t be loaded because it doesn’t contain a version for the current architecture." (dlopen_preflight(/Library/Graphics/Quartz Composer Plug-Ins/Motion Sensor.plugin/Contents/MacOS/Motion Sensor): no suitable image found.  Did find:
+o	/Library/Graphics/Quartz Composer Plug-Ins/Motion Sensor.plugin/Contents/MacOS/Motion Sensor: no matching architecture in universal wrapper))
+o2009-12-22 12:21:36.682 ibtool[19534:607] *** QCPlugIn: Cannot preflight plug-in at path "/Library/Graphics/Quartz Composer Plug-Ins/ObjLoader.plugin" (Error Domain=NSCocoaErrorDomain Code=3585 UserInfo=0x1041f09a0 "The bundle “ObjLoader” couldn’t be loaded because it doesn’t contain a version for the current architecture." (dlopen_preflight(/Library/Graphics/Quartz Composer Plug-Ins/ObjLoader.plugin/Contents/MacOS/ObjLoader): no suitable image found.  Did find:
+o	/Library/Graphics/Quartz Composer Plug-Ins/ObjLoader.plugin/Contents/MacOS/ObjLoader: no matching architecture in universal wrapper))
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib283195296#283195296#0(1244"2009-12-22 12:21:36.679 ibtool[19534:607] *** QCPlugIn: Cannot preflight plug-in at path "/Library/Graphics/Quartz Composer Plug-Ins/Motion Sensor.plugin" (Error Domain=NSCocoaErrorDomain Code=3585 UserInfo=0x1041ed100 "The bundle “Motion Sensor” couldn’t be loaded because it doesn’t contain a version for the current architecture." (dlopen_preflight(/Library/Graphics/Quartz Composer Plug-Ins/Motion Sensor.plugin/Contents/MacOS/Motion Sensor): no suitable image found.  Did find:	/Library/Graphics/Quartz Composer Plug-Ins/Motion Sensor.plugin/Contents/MacOS/Motion Sensor: no matching architecture in universal wrapper))2009-12-22 12:21:36.682 ibtool[19534:607] *** QCPlugIn: Cannot preflight plug-in at path "/Library/Graphics/Quartz Composer Plug-Ins/ObjLoader.plugin" (Error Domain=NSCocoaErrorDomain Code=3585 UserInfo=0x1041f09a0 "The bundle “ObjLoader” couldn’t be loaded because it doesn’t contain a version for the current architecture." (dlopen_preflight(/Library/Graphics/Quartz Composer Plug-Ins/ObjLoader.plugin/Contents/MacOS/ObjLoader): no suitable image found.  Did find:	/Library/Graphics/Quartz Composer Plug-Ins/ObjLoader.plugin/Contents/MacOS/ObjLoader: no matching architecture in universal wrapper))0(0#0#56"/Users/technasis/Desktop/adam/English.lproj/MainMenu.xib27303274611736688#297"    cd /Users/technasis/Desktop/adam    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Resources/English.lproj/MainMenu.nib /Users/technasis/Desktop/adam/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile "/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/Debug/adam.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s283195178.898300
+e283195179.070596
+r1
+xCopyStringsFile
+x/Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings283195178#283195179#0(0"0(0#0#61"/Users/technasis/Desktop/adam/English.lproj/InfoPlist.strings4300885448#345"    cd /Users/technasis/Desktop/adam    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/adam.app/Contents/Resources/Introduction.qtz Introduction.qtz
+r0
+
+CCpResource build/Debug/adam.app/Contents/Resources/adam.qtz adam.qtz
+s283195179.070679
+e283195180.497076
+r1
+xCpResource
+xbuild/Debug/adam.app/Contents/Resources/adam.qtz
+xadam.qtz
+lSLF07#2@13"Copy adam.qtz283195179#283195180#0(0"0(0#0#38"/Users/technasis/Desktop/adam/adam.qtz4300885448#294"    cd /Users/technasis/Desktop/adam    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/technasis/Desktop/adam/adam.qtz /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Resources0#
+
+CLd "/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/Debug/adam.app/Contents/MacOS/adam" normal x86_64
+r0
+
+CLd /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/MacOS/adam normal x86_64
+s283197492.206409
+e283197492.240449
+r1
+xLd
+x/Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/MacOS/adam
+xnormal
+xx86_64
+lSLF07#2@75"Link /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/MacOS/adam283197492#283197492#0(0"0(0#0#0"4300885448#500"    cd /Users/technasis/Desktop/adam    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/technasis/Desktop/adam/build/Debug -F/Users/technasis/Desktop/adam/build/Debug -filelist /Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/Objects-normal/x86_64/adam.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/MacOS/adam0#
+
+CProcessInfoPlistFile "/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/Debug/adam.app/Contents/Info.plist" Info.plist
+s289211349.895818
+e289211349.922571
+r1
+xProcessInfoPlistFile
+x/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/Debug/adam.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist289211349#289211349#0(0"0(0#0#73"/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/Info.plist7742643527908288512#374"    cd "/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam"    builtin-infoPlistUtility Info.plist -genpkginfo "/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/Debug/adam.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/Debug/adam.app/Contents/Info.plist"0#
+
+CProcessInfoPlistFile /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Info.plist Info.plist
+s283197105.749450
+e283197105.782476
+r1
+xProcessInfoPlistFile
+x/Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist283197105#283197105#0(0"0(0#0#40"/Users/technasis/Desktop/adam/Info.plist4300885448#269"    cd /Users/technasis/Desktop/adam    builtin-infoPlistUtility Info.plist -genpkginfo /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/DB/DBQz-wVtG543pKdwuT42WU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/adam_Prefix-gbfnljhpoctmkcdnveboeoibrszy/adam_Prefix.pch.gch adam_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s289211349.922824
+e289211353.632956
+r1
+xProcessPCH
+x/var/folders/DB/DBQz-wVtG543pKdwuT42WU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/adam_Prefix-gbfnljhpoctmkcdnveboeoibrszy/adam_Prefix.pch.gch
+xadam_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile adam_Prefix.pch289211349#289211353#0(0"0(0#0#78"/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/adam_Prefix.pch4300885448#1144"    cd "/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/adam.build/Debug/adam.build/adam.hmap" "-F/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/Debug" "-I/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/Debug/include" "-I/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/adam.build/Debug/adam.build/DerivedSources/x86_64" "-I/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/adam.build/Debug/adam.build/DerivedSources" -c "/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/adam_Prefix.pch" -o /var/folders/DB/DBQz-wVtG543pKdwuT42WU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/adam_Prefix-gbfnljhpoctmkcdnveboeoibrszy/adam_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ot/otWl9U5UGYeUt+9aIarWUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/adam_Prefix-gsnwcbyoqbouardqadprplsurscl/adam_Prefix.pch.gch adam_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s283195180.497391
+e283195183.444293
+r1
+xProcessPCH
+x/var/folders/ot/otWl9U5UGYeUt+9aIarWUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/adam_Prefix-gsnwcbyoqbouardqadprplsurscl/adam_Prefix.pch.gch
+xadam_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile adam_Prefix.pch283195180#283195183#0(0"0(0#0#45"/Users/technasis/Desktop/adam/adam_Prefix.pch4300885448#899"    cd /Users/technasis/Desktop/adam    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/adam.hmap -F/Users/technasis/Desktop/adam/build/Debug -I/Users/technasis/Desktop/adam/build/Debug/include -I/Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/DerivedSources/x86_64 -I/Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/DerivedSources -c /Users/technasis/Desktop/adam/adam_Prefix.pch -o /var/folders/ot/otWl9U5UGYeUt+9aIarWUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/adam_Prefix-gsnwcbyoqbouardqadprplsurscl/adam_Prefix.pch.gch0#
+
+CTouch "/Volumes/Iomega_HDD/backup/technasis/Desktop/TEMP STORAGE/adam/build/Debug/adam.app"
+r0
+
+CTouch /Users/technasis/Desktop/adam/build/Debug/adam.app
+s283197492.240525
+e283197492.242512
+r1
+xTouch
+x/Users/technasis/Desktop/adam/build/Debug/adam.app
+lSLF07#2@56"Touch /Users/technasis/Desktop/adam/build/Debug/adam.app283197492#283197492#0(0"0(0#0#0"4300885448#110"    cd /Users/technasis/Desktop/adam    /usr/bin/touch -c /Users/technasis/Desktop/adam/build/Debug/adam.app0#
+

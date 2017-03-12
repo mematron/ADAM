@@ -1,0 +1,11 @@
+dd40831a5f3e86d71f475cfdd82db62c c2a43532a51597077678be3beb23c86a ffffffffffffffffffffffffffffffff 102 /Users/technasis/Desktop/adam/build/Debug/adam.app
+e15777eb39328f9f514253bea83c86c5 e38545382dc580885862bf56dbfdf5ba ffffffffffffffffffffffffffffffff 14816 /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/MacOS/adam
+00000000000000000000000000000000 308785a4f1c2b638a8ceea40b68eaab5 ffffffffffffffffffffffffffffffff 59820463 /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Resources/adam.qtz
+000000004b30ff70000000000004e1e7 c54c3a4c3b038f13550c0fc725524962 ffffffffffffffffffffffffffffffff 59525 /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Resources/English.lproj/MainMenu.nib
+000000004b30ff7000000000000000d0 2a590e218108b0ebeba555923834c7b3 ffffffffffffffffffffffffffffffff 208 /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Resources/English.lproj/InfoPlist.strings
+00000000000000000000000000000000 a7c3f1414bb37f0e8f3c53c2b0d034a7 ffffffffffffffffffffffffffffffff 8 /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/PkgInfo
+00000000000000000000000000000000 a7c3f1414bb37f0e8f3c53c2b0d034a7 ffffffffffffffffffffffffffffffff 821 /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Info.plist
+87d48264ce13894df4db8586bd2ef50d f790dd0ebc838901b029a0d04e7cb941 ffffffffffffffffffffffffffffffff 18044 /Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/Objects-normal/x86_64/AppController.o
+87d48264cf313f34f4db8586bd2ef1f6 16c7aae5ce2524ade16bf36ee6403b81 ffffffffffffffffffffffffffffffff 4976 /Users/technasis/Desktop/adam/build/adam.build/Debug/adam.build/Objects-normal/x86_64/main.o
+0000000041e61ccb0000000000000067 87d48264852376e7f4db8586bd2ef08c ffffffffffffffffffffffffffffffff 56411536 /var/folders/ot/otWl9U5UGYeUt+9aIarWUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/adam_Prefix-gsnwcbyoqbouardqadprplsurscl/adam_Prefix.pch.gch
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 0 /Users/technasis/Desktop/adam/build/Debug/adam.app/Contents/Resources/Introduction.qtz
